@@ -1,0 +1,21 @@
+.user-list {
+    padding: 50px;
+    background-color: #eeeeee;
+}
+
+.user-item {
+    width: 80%;
+    border: 10px solid #ffffff;
+    margin: 0 auto;
+    border-radius: 20px;
+    display: flex;
+}
+
+.user-item-avatar-container {
+    width: 100px;
+    height: 100px;
+}
+
+.user-item-avatar-container img {
+    width: 100%;
+}

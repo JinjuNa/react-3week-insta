@@ -1,0 +1,12 @@
+.home-container {
+    text-align: center;
+    padding: 100px;
+}
+
+.home-container .hello {
+    font-size: 40px;
+}
+
+.home-container img {
+    width: 100px;
+}

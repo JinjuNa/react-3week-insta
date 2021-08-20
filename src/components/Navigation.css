@@ -1,0 +1,13 @@
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+
+nav a {
+    padding: 20px;
+    color: inherit;
+    text-decoration: none;
+    font-size: 28px;
+    line-height: 100px;
+}
