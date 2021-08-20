@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-3week-insta/static/css/main.cc3f6a7f.chunk.css",
+    "main.js": "/react-3week-insta/static/js/main.2a75b3e3.chunk.js",
+    "main.js.map": "/react-3week-insta/static/js/main.2a75b3e3.chunk.js.map",
+    "runtime-main.js": "/react-3week-insta/static/js/runtime-main.20b54380.js",
+    "runtime-main.js.map": "/react-3week-insta/static/js/runtime-main.20b54380.js.map",
+    "static/js/2.0e06c07b.chunk.js": "/react-3week-insta/static/js/2.0e06c07b.chunk.js",
+    "static/js/2.0e06c07b.chunk.js.map": "/react-3week-insta/static/js/2.0e06c07b.chunk.js.map",
+    "static/js/3.8a2edfd3.chunk.js": "/react-3week-insta/static/js/3.8a2edfd3.chunk.js",
+    "static/js/3.8a2edfd3.chunk.js.map": "/react-3week-insta/static/js/3.8a2edfd3.chunk.js.map",
+    "index.html": "/react-3week-insta/index.html",
+    "static/css/main.cc3f6a7f.chunk.css.map": "/react-3week-insta/static/css/main.cc3f6a7f.chunk.css.map",
+    "static/js/2.0e06c07b.chunk.js.LICENSE.txt": "/react-3week-insta/static/js/2.0e06c07b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20b54380.js",
+    "static/js/2.0e06c07b.chunk.js",
+    "static/css/main.cc3f6a7f.chunk.css",
+    "static/js/main.2a75b3e3.chunk.js"
+  ]
+}
